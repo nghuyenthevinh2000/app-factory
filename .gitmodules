@@ -1,3 +1,6 @@
 [submodule "projects/charity-app"]
 	path = projects/charity-app
 	url = https://github.com/nghuyenthevinh2000/charity-app.git
+[submodule "projects/social-content"]
+	path = projects/social-content
+	url = https://github.com/nghuyenthevinh2000/social-content.git
