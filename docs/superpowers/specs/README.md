@@ -9,6 +9,7 @@ submodules:
     Upgrade
   2026-09-29-twitter-reply-strategy-design.md: Supervised X Reply Strategy Enhancement
     Design
+  2026-09-30-twitter-topic-report-design.md: Topic-file-driven daily report design with
+    bounded collection, engagement ranking, evidence, and Markdown output.
 ---
-
 
