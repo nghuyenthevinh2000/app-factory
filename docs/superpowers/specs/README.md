@@ -4,6 +4,7 @@ summary: Documentation and resources for /Users/thevinhnguyen/Documents/computer
 tags:
 - specs
 submodules:
+  2026-10-02-facebook-agent-design.md: Direct Facebook personal-profile publishing design using the shared Chrome profile.
   2026-09-29-twitter-agent-design.md: Supervised X DOM CLI design
   2026-09-29-twitter-agent-discovery-upgrade.md: Twitter Agent — Opportunity Discovery
     Upgrade
@@ -12,4 +13,3 @@ submodules:
   2026-09-30-twitter-topic-report-design.md: Topic-file-driven daily report design with
     bounded collection, engagement ranking, evidence, and Markdown output.
 ---
-
