@@ -4,3 +4,6 @@
 [submodule "projects/social-content"]
 	path = projects/social-content
 	url = https://github.com/nghuyenthevinh2000/social-content.git
+[submodule "projects/grants-agent"]
+	path = projects/grants-agent
+	url = https://github.com/nghuyenthevinh2000/grants-agent.git
